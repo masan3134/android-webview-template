@@ -1,0 +1,7 @@
+node_modules
+.flutter-plugins
+build
+.android
+.idea
+.vscode
+*.apk
